@@ -1,23 +1,24 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to our LAB!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
-services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+research_areas:
+    title: "Research Area"
+    text: ""
+    section: research_areas
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Data / Text Mining"
+        desc: "Data mining is a process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Machine Learning"
+        desc: "Machine learning (ML) is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence."
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Big Data Analysis"
+        desc: "Big data is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software."
         icon: fab fa-markdown
+      
 
 portfolio:
     title: "Portfolio"
