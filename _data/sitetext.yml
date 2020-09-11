@@ -18,18 +18,11 @@ research_areas:
       - title: "Big Data Analysis"
         desc: "Big data is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software."
         icon: fab fa-markdown
-      
 
-portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
-    
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Project" 
+    text: ""
     section: timeline
     events:
       - title: "Our Humble Beginnings"
@@ -58,29 +51,89 @@ timeline:
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
     
+
+#about:
+#    title: "About Us"
+#    text: "our story"
+#    section: about
+#
+#
+#clients:
+#    section: clients
+#    max-height: 100px
+#    horizontal-scrolling: "" #"yes/no"
+#    list:
+#      - title: "envato"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/envato.jpg
+#      - title: "designmodo"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/designmodo.jpg
+#      - title: "themeforest"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/themeforest.jpg
+#      - title: "Creative Market"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/creative-market.jpg
+    
+members:
+    section: members 
+    title: "MEMBERS"
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    professor:
+      title: "PROFESSOR"
+      image: assets/img/team/500x500.jpg
+      name: "Han-joon Kim"
+      education:
+        -txt: "2003~: Associate professor, Department of Computer Science and Engineering, University of Seoul"
+        -txt: "2002: Ph.D. in Computer Science and Engineering, Seoul National University"
+      desc: "
+      - Data Mining(데이터마이닝): 추천 알고리즘
+      - Text Mining(텍스트마이닝): 자동문서분류, 클러스터링, 계층관계 탐사
+      - e-Business 기술: 전자카탈로그 자동분류, 온톨로지 추출, 시멘틱웹
+      - Database Systems, Data Warehousing: 규칙기반 자동 데이터 웨어하우징
+      - Network Intrusion Detection: 데이터마이닝 기술 이용한 침입탐지
+      - Analytical Customer Relationship Management Systems
+      - Knowledge Management Intelligent Information Systems: 맞춤형 텍사노미 생성, 자동질의확장 등 지능형 정보검색
+        "
+    people:
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Larry Parker"
+        role: "Lead Marketer"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
 team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."

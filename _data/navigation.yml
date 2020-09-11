@@ -1,18 +1,15 @@
 nav:
-  - title: "Research/Projects"
-    section: research
+  - title: "Research"
+    section: research_areas
 
+  - title: "Project"
+    section: timeline
+    
   - title: "Publication"
     section: publication
-    
-  - title: "About"
-    section: timeline
 
-  - title: "Team"
-    section: team
+  - title: "Members"
+    section: members
 
   - title: "Contact"
     section: contact
-
-  - title: "Apply"
-    section: apply
