@@ -89,24 +89,32 @@ members:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     professor:
       title: "PROFESSOR"
-      image: assets/img/team/500x500.jpg
+      image: assets/img/team/professor.jpg
       name: "Han-joon Kim"
       education:
         -txt: "2003~: Associate professor, Department of Computer Science and Engineering, University of Seoul"
         -txt: "2002: Ph.D. in Computer Science and Engineering, Seoul National University"
-      desc: "
+      interests: "
+
       - Data Mining(데이터마이닝): 추천 알고리즘
+
       - Text Mining(텍스트마이닝): 자동문서분류, 클러스터링, 계층관계 탐사
-      - e-Business 기술: 전자카탈로그 자동분류, 온톨로지 추출, 시멘틱웹
+
       - Database Systems, Data Warehousing: 규칙기반 자동 데이터 웨어하우징
-      - Network Intrusion Detection: 데이터마이닝 기술 이용한 침입탐지
-      - Analytical Customer Relationship Management Systems
-      - Knowledge Management Intelligent Information Systems: 맞춤형 텍사노미 생성, 자동질의확장 등 지능형 정보검색
         "
+      education: "
+
+      1994 : BS in Statistics and Computer Science, Seoul National University
+
+      1996 : MS in Statistics and Computer Science, Seoul National University
+
+      2002 : Ph.D. in Computer Science and Engineering, Seoul National University
+
+      2003~: Associate professor, Department of computer Science and Engineering"
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Gill-Jae Lee"
+        role: "Captain"
+        image: assets/img/team/LGJ.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -114,9 +122,9 @@ members:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "Su-Eun Lee"
         role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/LSE.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -124,7 +132,37 @@ members:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Sae-Rom Jeo"
+        role: "Lead Developer"
+        image: assets/img/team/JSR.png
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Do-Hoon Lee"
+        role: "Lead Developer"
+        image: assets/img/team/LDH.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Jong-Chan Yun"
+        role: "Lead Developer"
+        image: assets/img/team/YJC.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Seuong-Gyu Park"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
