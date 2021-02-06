@@ -111,7 +111,7 @@ members:
       2002 : Ph.D. in Computer Science and Engineering, Seoul National University
 
       2003~: Associate professor, Department of computer Science and Engineering"
-    people:
+    students:
       - name: "Gill-Jae Lee"
         role: "Captain"
         image: assets/img/team/LGJ.png
@@ -172,6 +172,7 @@ members:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+    alumni:
       - name: "Seung-Yeop Shin"
         role: "Captain"
         image: assets/img/team/SSY.jpg
