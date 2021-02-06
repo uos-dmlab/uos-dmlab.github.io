@@ -1,8 +1,6 @@
 header:
-    title: Welcome to our Datamining LAB!
+    title: Welcome to UOS Datamining LAB!
     text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
 
 research_areas:
     title: "Research Area"
@@ -11,13 +9,13 @@ research_areas:
     list:
       - title: "Data / Text Mining"
         desc: "Data mining is a process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Machine Learning"
         desc: "Machine learning (ML) is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence."
         icon: fas fa-laptop       
       - title: "Big Data Analysis"
         desc: "Big data is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software."
-        icon: fab fa-markdown
+        icon: fas fa-chart-line
 
 
 timeline:
