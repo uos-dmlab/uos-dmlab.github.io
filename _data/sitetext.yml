@@ -1,6 +1,6 @@
 header:
-    title: Welcome to UOS Datamining LAB!
-    text: It's Nice To Meet You
+    title: Welcome to UOS Data Mining Lab.
+    text: 
 
 research_areas:
     title: "Research Area"
@@ -23,7 +23,7 @@ timeline:
     text: ""
     section: timeline
     events:
-      - title: "시멘틱 텍스트 큐보이드 기반 자가증식 기술 및 딥러닝 학습 기술"
+      - title: "시멘틱 텍스트 큐보이드 기반 <br> 자가증식 기술 및 <br> 딥러닝 학습 기술"
         year: "2018.11-2021.10"
         desc: 
         image: assets/img/timeline/1.jpg
@@ -35,7 +35,7 @@ timeline:
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "도시 특성화 기반의 창의 융합형 글로벌 공학교육혁신"
+      - title: "도시 특성화 기반의 <br> 창의 융합형 글로벌 <br> 공학교육혁신"
         year: "2019.03-2021.02"
         desc:
         image: assets/img/timeline/3.jpg
@@ -278,25 +278,25 @@ members:
         role: "-"
         image: assets/img/team/KJY.jpg
       - name: "Pu-Reum Lim"
-        role: "-"
+        role: "Prompt Technology <br> Research Engineer"
         image: assets/img/team/LPL.jpg
       - name: "Sang-Won Ha"
-        role: "-"
+        role: "Spoon Radio <br> Associate"
         image: assets/img/team/HSW.jpg
       - name: "Tae-Jun Kim"
-        role: "-"
+        role: "KAIST Graduate School of Culture Technology <br> Doctorate"
         image: assets/img/team/KTJ.jpg
       - name: "So-Hyeon Kim"
         role: "-"
         image: assets/img/team/500x500.jpg
-      - name: "Han-Muk"
-        role: "-"
+      - name: "Han-Muk Yu"
+        role: "Deep Work Corp. <br> Co-founder "
         image: assets/img/team/YHM.jpg
       - name: "Bang-Rae Lee"
-        role: "-"
+        role: "KISTI <br> Senior Researcher"
         image: assets/img/team/LBR.jpg
       - name: "Jeong-Rae Kim"
-        role: "-"
+        role: "KIST <br> Post Doctor"
         image: assets/img/team/500x500.jpg
       - name: "Ki-Ju Hong"
         role: "-"
@@ -317,7 +317,7 @@ members:
         role: "-"
         image: assets/img/team/NJH.jpg
       - name: "Seong-Jik Lee"
-        role: "-"
+        role: "Kakao Corp. <br> employee"
         image: assets/img/team/LSJ.jpg
       - name: "Hong-Jun Yun"
         role: "-"
@@ -326,10 +326,10 @@ members:
         role: "-"
         image: assets/img/team/YEG.jpg
       - name: "Min-Kyeong Kim"
-        role: "-"
+        role: "WISEnut Corp. <br> Mining Consulting Director"
         image: assets/img/team/KMK.jpg
       - name: "Bong Heo"
-        role: "-"
+        role: "SamSung SDS Corp. <br> Pro"
         image: assets/img/team/HB.jpg
       - name: "Hee-Soon Hwang"
         role: "-"
@@ -344,7 +344,7 @@ members:
         role: "-"
         image: assets/img/team/PJM.jpg
       - name: "Geon-Tae Kim"
-        role: "-"
+        role: "Twentyfive Corp. <br> CEO"
         image: assets/img/team/KGT.jpg
 
 contact:
