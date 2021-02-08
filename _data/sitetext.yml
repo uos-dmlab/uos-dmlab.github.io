@@ -23,30 +23,24 @@ timeline:
     text: ""
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "시멘틱 텍스트 큐보이드 기반 자가증식 기술 및 딥러닝 학습 기술"
+        year: "2018.11-2021.10"
+        desc: 
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "5G 기반 산업별 빅데이터 활용 딥러닝 모형 개발 및 인력양성"
+        year: "2018.06-2021.12"
+        desc:
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "도시 특성화 기반의 창의 융합형 글로벌 공학교육혁신"
+        year: "2019.03-2021.02"
+        desc:
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
     end: "Be Part <br> of Our <br> Story!"
 
 
@@ -355,7 +349,7 @@ members:
 
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 02-6490-"
+    text: "Mail khj@uos.ac.kr or call 02-6490-5715"
     section: contact
     
 footer:
