@@ -269,10 +269,10 @@ members:
         image: assets/img/team/500x500.jpg
     alumni:
       - name: "Seung-Yeop Shin"
-        role: "-"
+        role: "LINA 생명 <br> Employee"
         image: assets/img/team/SSY.jpg
       - name: "Hee-Won Choi"
-        role: "-"
+        role: "Bigtech Corp. <br> Research Engineer"
         image: assets/img/team/CHW.jpg
       - name: "Ji-Yeon Kim"
         role: "-"
@@ -281,7 +281,7 @@ members:
         role: "Prompt Technology <br> Research Engineer"
         image: assets/img/team/LPL.jpg
       - name: "Sang-Won Ha"
-        role: "Spoon Radio <br> Associate"
+        role: "Spoon Radio <br> Employee"
         image: assets/img/team/HSW.jpg
       - name: "Tae-Jun Kim"
         role: "KAIST Graduate School of Culture Technology <br> Doctorate"
@@ -299,10 +299,10 @@ members:
         role: "KIST <br> Post Doctor"
         image: assets/img/team/500x500.jpg
       - name: "Ki-Ju Hong"
-        role: "-"
+        role: "ESTsoft Corp. <br> Engineer"
         image: assets/img/team/HKJ.jpg
       - name: "Ga-Hee Lee"
-        role: "-"
+        role: "SK C&C <br> Employee"
         image: assets/img/team/LGH.jpg
       - name: "Seung-Yeon Lee"
         role: "-"
@@ -314,13 +314,13 @@ members:
         role: "-"
         image: assets/img/team/HM.jpg
       - name: "Jun-Ho No"
-        role: "-"
+        role: "LG Electronics Corp. <br> Engineer"
         image: assets/img/team/NJH.jpg
       - name: "Seong-Jik Lee"
-        role: "Kakao Corp. <br> employee"
+        role: "Kakao Corp. <br> Engineer"
         image: assets/img/team/LSJ.jpg
       - name: "Hong-Jun Yun"
-        role: "-"
+        role: "Kakao Corp. <br> Engineer"
         image: assets/img/team/YHJ.jpg
       - name: "Eon-Geun Yun"
         role: "-"
@@ -341,7 +341,7 @@ members:
         role: "-"
         image: assets/img/team/AMY.jpg
       - name: "Jong-Myeong Park"
-        role: "-"
+        role: "Witcom Corp. <br> Senior Engineer"
         image: assets/img/team/PJM.jpg
       - name: "Geon-Tae Kim"
         role: "Twentyfive Corp. <br> CEO"
