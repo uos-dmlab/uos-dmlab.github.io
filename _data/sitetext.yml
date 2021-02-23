@@ -326,11 +326,7 @@ members:
         role: "ESTsoft Corp. <br> Engineer"
         image: assets/img/team/HKJ.jpg
       - name: "Ga-Hee Lee"
-<<<<<<< HEAD
-        role: "SK C&C <br> Employee"
-=======
         role: "SK C&C. <br> Employee"
->>>>>>> 88151899664a8ac031b8e261ccdd0434bb5ada4c
         image: assets/img/team/LGH.jpg
       - name: "Seung-Yeon Lee"
         role: "-"
@@ -348,11 +344,7 @@ members:
         role: "Kakao Corp. <br> Engineer"
         image: assets/img/team/LSJ.jpg
       - name: "Hong-Jun Yun"
-<<<<<<< HEAD
         role: "Kakao Corp. <br> Engineer"
-=======
-        role: "KaKao Corp. <br> Engineer"
->>>>>>> 88151899664a8ac031b8e261ccdd0434bb5ada4c
         image: assets/img/team/YHJ.jpg
       - name: "Eon-Geun Yun"
         role: "-"
