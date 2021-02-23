@@ -22,25 +22,49 @@ timeline:
     title: "Project" 
     text: ""
     section: timeline
-    events:
-      - title: "시멘틱 텍스트 큐보이드 기반 <br> 자가증식 기술 및 <br> 딥러닝 학습 기술"
-        year: "2018.11-2021.10"
-        desc: 
-        image: assets/img/timeline/1.jpg
+    events: 
+      - title: "데이터 품질 평가기반 데이터 고도화 및 데이터셋 보정 기술 개발"
+        year: "2020.04.~2022.12"
+        desc: "Development of data improvement and dataset correction technology based on data quality assessment"
+        image: assets/img/timeline/3.jpg
         alt: 
         align: left
-      - title: "5G 기반 산업별 빅데이터 활용 딥러닝 모형 개발 및 인력양성"
-        year: "2018.06-2021.12"
-        desc:
-        image: assets/img/timeline/2.jpg
+      - title: "시멘틱 텍스트 큐보이드 기반 자가증식 기술 및 딥러닝 학습 기술"
+        year: "2018.11-2021.10"
+        desc: "Data Augmentation and Deep Learning Technology based upon Semantic Text Cuboid Model"
+        image: assets/img/timeline/3.jpg
         alt: 
         align: right
-      - title: "도시 특성화 기반의 <br> 창의 융합형 글로벌 <br> 공학교육혁신"
-        year: "2019.03-2021.02"
-        desc:
+      - title: "머신러닝 기반 상황인지형 외식 컨텐츠 서비스 개발 플랫폼 구축"
+        year: "2016.11~2017.10"
+        desc: "Context-aware Food Contents Service Development Platform based on Machine Learning"
+        image: assets/img/timeline/3.jpg
+        alt: 
+        align: left
+      - title: "자동 진화형 고성능 다차원 문서 분류시스템의 개발"
+        year: "2015.11~2018.10"
+        desc: "Development of Evolutionary High-Performance Multi-Dimensional Text Classification System"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-        #align: #default is left       
+        align: right 
+      - title: "머신러닝 기반 화재피해예측 서비스 개발"
+        year: "2015.07~2020.08"
+        desc: "Development of Fire Damage Prediction based on Machine Learning"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        align: left 
+      - title: "시멘틱 텍스트 큐보이드 기반 대용량 텍스트마이닝 프레임워크의 연구"
+        year: "2013.06~2016.05"
+        desc: "Large-scale Text Mining Framework based on Semantic Text Cuboid"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        align: right     
+      - title: "빅데이터를 활용한 스마트 관광 서비스 모델 연구"
+        year: "2015.09~2016.08"
+        desc: "Research on Smart Tourism Service Model using Big Data"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        align: #default is left   
     end: "Be Part <br> of Our <br> Story!"
 
 
@@ -302,7 +326,11 @@ members:
         role: "ESTsoft Corp. <br> Engineer"
         image: assets/img/team/HKJ.jpg
       - name: "Ga-Hee Lee"
+<<<<<<< HEAD
         role: "SK C&C <br> Employee"
+=======
+        role: "SK C&C. <br> Employee"
+>>>>>>> 88151899664a8ac031b8e261ccdd0434bb5ada4c
         image: assets/img/team/LGH.jpg
       - name: "Seung-Yeon Lee"
         role: "-"
@@ -320,7 +348,11 @@ members:
         role: "Kakao Corp. <br> Engineer"
         image: assets/img/team/LSJ.jpg
       - name: "Hong-Jun Yun"
+<<<<<<< HEAD
         role: "Kakao Corp. <br> Engineer"
+=======
+        role: "KaKao Corp. <br> Engineer"
+>>>>>>> 88151899664a8ac031b8e261ccdd0434bb5ada4c
         image: assets/img/team/YHJ.jpg
       - name: "Eon-Geun Yun"
         role: "-"
