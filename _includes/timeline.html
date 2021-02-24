@@ -18,7 +18,14 @@
 			<li>
 			{% endif %}
               <div class="timeline-image">
-                <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
+                <style>
+                  .max-small{
+                    width : auto;
+                    max-height: 300px;
+                  }
+                </style>
+                <!-- 각 이미지 높이의 최대를 300px로 고정하고 그에 따라 가로 설정 -->
+                <img class="max-small" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
