@@ -44,7 +44,7 @@ timeline:
       - title: "자동 진화형 고성능 다차원 문서 분류시스템의 개발"
         year: "2015.11~2018.10"
         desc: "Development of Evolutionary High-Performance Multi-Dimensional Text Classification System"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/team/500x500.jpg
         alt: image alt text
         align: left
       - title: "머신러닝 기반 화재피해예측 서비스 개발"
@@ -56,7 +56,7 @@ timeline:
       - title: "시멘틱 텍스트 큐보이드 기반 대용량 텍스트마이닝 프레임워크의 연구"
         year: "2013.06~2016.05"
         desc: "Large-scale Text Mining Framework based on Semantic Text Cuboid"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/team/500x500.jpg
         alt: image alt text
         align: left     
       - title: "빅데이터를 활용한 스마트 관광 서비스 모델 연구"
@@ -65,7 +65,6 @@ timeline:
         image: assets/img/timeline/smart_tourism.jpg
         alt: image alt text
         align: #default is left   
-    end: "Be Part <br> of Our <br> Story!"
 
 
 publication:
