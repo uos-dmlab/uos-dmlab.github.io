@@ -265,18 +265,18 @@ members:
 
       2003~: Associate professor, Department of computer Science and Engineering"
     students:
-      - name: "Gill-Jae Lee"
+      - name: "Ju-Eun Jeong"
         role: "M.S students"
-        image: assets/img/team/LGJ.png
-      - name: "Su-Eun Lee"
+        image: assets/img/team/JJE.jpg
+      - name: "Han-Seok Jeong"
         role: "M.S students"
-        image: assets/img/team/LSE.png
-      - name: "Sae-Rom Jeo"
+        image: assets/img/team/JHS.jpg
+      - name: "Soon-Kwan Kwon"
         role: "M.S students"
-        image: assets/img/team/JSR.png
-      - name: "Do-Hoon Lee"
-        role: "M.S students"
-        image: assets/img/team/LDH.jpg
+        image: assets/img/team/KSK.jpg
+      - name: "Min-Joong Kim"
+        role: "Undergraduate students"
+        image: assets/img/team/500x500.jpg
         #        social:
         #          - url: https://twitter.com
         #            icon: fab fa-twitter
@@ -284,13 +284,31 @@ members:
         #            icon: fab fa-facebook-f
         #          - url: https://linkedin.com
         #            icon: fab fa-linkedin-in
-      - name: "Jong-Chan Yun"
-        role: "M.S students"
-        image: assets/img/team/YJC.jpg
-      - name: "Seuong-Gyu Park"
+      - name: "Yoon-Seok Choi"
+        role: "Undergraduate students"
+        image: assets/img/team/CYS.png
+      - name: "Sung-Jun Kim"
+        role: "Undergraduate students"
+        image: assets/img/team/500x500.jpg
+      - name: "Jung-Yoon Yeom"
         role: "Undergraduate students"
         image: assets/img/team/500x500.jpg
     alumni:
+      - name: "Jong-Chan Yun"
+        role: "-"
+        image: assets/img/team/YJC.jpg
+      - name: "Gill-Jae Lee"
+        role: "-"
+        image: assets/img/team/LGJ.png
+      - name: "Su-Eun Lee"
+        role: "-"
+        image: assets/img/team/LSE.png
+      - name: "Sae-Rom Jeo"
+        role: "-"
+        image: assets/img/team/JSR.png
+      - name: "Do-Hoon Lee"
+        role: "-"
+        image: assets/img/team/LDH.jpg
       - name: "Seung-Yeop Shin"
         role: "LINA 생명 <br> Employee"
         image: assets/img/team/SSY.jpg
