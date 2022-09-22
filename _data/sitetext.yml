@@ -290,9 +290,9 @@ members:
       - name: "Sung-Joon Kim"
         role: "Undergraduate students"
         image: assets/img/team/KSJ.jpg
-      - name: "Jung-Yoon Yeom"
+      - name: "Jeong-Yoon Yeom"
         role: "Undergraduate students"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/YJY.jpg
     alumni:
       - name: "Jong-Chan Yun"
         role: "-"
