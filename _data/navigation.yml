@@ -11,5 +11,8 @@ nav:
   - title: "Members"
     section: members
 
+  - title: "Github"
+    url: https://github.com/uos-dmlab
+ 
   - title: "Contact"
     section: contact
