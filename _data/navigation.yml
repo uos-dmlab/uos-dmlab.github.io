@@ -1,7 +1,7 @@
 nav:
   - title: "Research"
     section: research_areas
-
+    
   - title: "Project"
     section: timeline
     
@@ -12,7 +12,8 @@ nav:
     section: members
 
   - title: "Github"
-    url: https://github.com/uos-dmlab
- 
+    section: github
+    #url: https://github.com/uos-dmlab
+
   - title: "Contact"
     section: contact

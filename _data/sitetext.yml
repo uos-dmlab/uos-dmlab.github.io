@@ -2,6 +2,10 @@ header:
     title: Welcome to UOS Data Mining Lab.
     text: 
 
+
+
+
+
 research_areas:
     title: "Research Area"
     text: ""
@@ -16,6 +20,7 @@ research_areas:
       - title: "Big Data Analysis"
         desc: "Big data is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software."
         icon: fas fa-chart-line
+
 
 
 timeline:
@@ -102,6 +107,21 @@ publication:
     - title: ""
       desc: ""
   jdomestic:
+
+    - title: "LSTM-GAN 기반 이상탐지 모델을 활용한 시계열 데이터의 동적 보정기법"
+      desc: "한국인터넷방송통신학회, 2023.04"
+    - title: "오토인코더 기반 수치형 학습데이터의 자동 증강 기법"
+      desc: "한국인터넷방송통신학회, 2022.10"
+    - title: "데이터 융합을 위한 관계형 테이블 임베딩 기법"
+      desc: "한국전자거래학회지, 2022.08"
+    - title: "공간 정보를 가지는 데이터셋의 준자동 융합 기법"
+      desc: "한국전자거래학회지, 2021.11"
+    - title: "혼합형 데이터 보간을 위한 디노이징 셀프 어텐션 네트워크"
+      desc: "한국콘텐츠학회논문지, 2021.11"
+    - title: "인접성 벡터를 이용한 트리플 지식 그래프의 임베딩 모델 개선"
+      desc: "한국전자거래학회, 2021.08"
+    - title: "다중 스태킹을 가진 새로운 앙상블 학습 기법"
+      desc: "한국전자거래학회, 2020.08"
     - title: "적대적 오토인코더 기반 화재 위험 건물 검출 기법"
       desc: "데이터베이스연구, 2019.12"
     - title: "시맨틱 텐서공간모델 기반 텍스트데이터 증식기법"
@@ -145,6 +165,14 @@ publication:
     - title: ""
       desc: ""
   cinternational:
+    - title: "Multivariate Time Series Data Correction by combining Attention-based LSTM and GAN Model"
+      desc: "9th IEEE International Conference on Applied System Innovation 2023 (IEEE ICASI 2023), 2023.04"
+    - title: "BAMT-GAN: Balanced Augmentation of for Mixed-type Tabular Data"
+      desc: "9th IEEE International Conference on Applied System Innovation 2023 (IEEE ICASI 2023), 2023.04"
+    - title: "Deep Learning Models with Stratification-based Loss Function on Domain Knowledge-based Time series Data: Hypotension Prediction"
+      desc: "2022 IEEE International Conference on Big Data (Big Data), 2022.12"
+    - title: "An AutoEncoder-based Numerical Training Data Augmentation Technique"
+      desc: "2022 IEEE International Conference on Big Data (Big Data), 2022.12"
     - title: "Autoencoder-based One-class Classification Technique for Event Prediction"
       desc: "4th International Conference on Cloud Computing and Internet of Things, 2019.09"
     - title: "Machine Learning-based Automated Data Visualization: A Meta-feature Engineering"
@@ -211,12 +239,22 @@ publication:
     - title: "텍스트마이닝을 위한 새로운 텍스트 표현모델"
       desc: "한국전자거래학회 2014 춘계학술대회, 2014.05"
   patent:
+    - title: "관계형 테이블 임베딩 장치 및 방법"
+      desc: "10-2022-0120512, 2023.04.26"
+    - title: "수치형 변수 및 범주형 변수를 포함하는 혼합형 결측 데이터에 대한 데이터 보간을 수행하는 장치 및 방법"
+      desc: "10-2021-0150649, 2022.06.14"
+    - title: "가중 트리플 지식 그래프를 생성하는 장치, 방법 및 컴퓨터 프로그램"
+      desc: "10-2021-0135086, 2022.04.22"
+    - title: "시맨틱 텐서공간모델과 어텐션 매커니즘을 활용하여 문서를 분류하는 장치 및 방법"
+      desc: "10-2020-0185534, 2022.04.12"
+    - title: "적대적 오토 인코더 기반 이상 데이터 검출 장치"
+      desc: "10-2020-0062385, 2020.11.24"
     - title: "상품 추천 서버 및 상품 추천 방법"
-      desc: "10-2064589-0000, 2020.01.03"
+      desc: "10-2017-0166896, 2020.01.03"
     - title: "데이터를 시각화하는 장치 및 방법"
-      desc: "10-2039154-0000, 2019.10.25"
+      desc: "10-2019-0051020, 2019.10.25"
     - title: "본문 태그 판별 모델 제공장치, 방법 및 본문 태그 판별 모델 적용 장치"
-      desc: "10-2003487-0000, 2019.07.18"
+      desc: "10-2017-0108618, 2019.07.18"
     - title: "문서분류 장치 및 방법"
       desc: "10-1983752-0000, 2019.05.23"
     - title: "문서 분류 시스템 및 그 방법 (SYSTEM AND METHOD FOR text classification)"
@@ -237,6 +275,7 @@ publication:
       desc: "C-2014-0002179, 2014.01.23"
     - title: ""
       desc: ""
+
 
 
 members:
@@ -286,10 +325,10 @@ members:
         image: assets/img/team/CYS.png
       - name: "So-Hyun Yoon"
         role: "M.S students"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/YSH.jpg
       - name: "Chan-Hoon Park"
         role: "Undergraduate students"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/PCH.jpg
     alumni:
       - name: "Jong-Chan Yun"
         role: "-"
@@ -385,6 +424,18 @@ members:
         role: "Twentyfive Corp. <br> CEO"
         image: assets/img/team/KGT.jpg
 
+github:
+    title: "Github"
+    text: ""
+    section: github
+    list:
+      - title: "Deep Learning based Data Engineering"
+        desc: "https://github.com/uos-dmlab"
+        icon: "fab fa-github"
+        image: assets/img/github/github.jpg
+        alt: "github"
+    
+
 contact:
     title: "Contact Us"
     text: "Mail khj@uos.ac.kr or call 02-6490-5715"
@@ -400,8 +451,8 @@ footer:
     #  - url: https://linkedin.com
     #    icon: "fab fa-linkedin-in"
     
-      - url: https://github.com/uos-dmlab
-        icon: "fab fa-github"
+    #  - url: https://github.com/uos-dmlab
+    #    icon: "fab fa-github"
     #  - url: https://instagram.com
     #    icon: "fab fa-instagram"
 
