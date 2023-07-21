@@ -326,12 +326,6 @@ members:
 
       2003~: Associate professor, Department of computer Science and Engineering"
     students:
-      - name: "Ju-Eun Jeong"
-        role: "M.S students"
-        image: assets/img/team/JJE.jpg
-      - name: "Han-Seok Jeong"
-        role: "M.S students"
-        image: assets/img/team/JHS.jpg
       - name: "Soon-Kwan Kwon"
         role: "M.S students"
         image: assets/img/team/KSK.jpg
@@ -352,6 +346,12 @@ members:
         role: "Undergraduate students"
         image: assets/img/team/PCH.jpg
     alumni:
+      - name: "Ju-Eun Jeong"
+        role: "M.S students"
+        image: assets/img/team/JJE.jpg
+      - name: "Han-Seok Jeong"
+        role: "M.S students"
+        image: assets/img/team/JHS.jpg
       - name: "Jong-Chan Yun"
         role: "-"
         image: assets/img/team/YJC.jpg
