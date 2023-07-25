@@ -345,13 +345,13 @@ members:
       - name: "Chan-Hoon Park"
         role: "Undergraduate students"
         image: assets/img/team/PCH.jpg
+    alumni:
       - name: "Ju-Eun Jeong"
-        role: "M.S students"
+        role: "-"
         image: assets/img/team/JJE.jpg
       - name: "Han-Seok Jeong"
-        role: "M.S students"
+        role: "-"
         image: assets/img/team/JHS.jpg
-    alumni:
       - name: "Jong-Chan Yun"
         role: "-"
         image: assets/img/team/YJC.jpg
