@@ -345,6 +345,12 @@ members:
       - name: "Ji-Seok Park"
         role: "M.S students"
         image: assets/img/team/PJS.jpg
+      - name: "Si-Hyeong Yeo"
+        role: "Undergraduate student"
+        image: assets/img/team/YSH-.jpg
+      - name: "Hyeong-Jun Kang"
+        role: "Undergraduate student"
+        image: assets/img/team/KHJ.jpg
     alumni:
       - name: "Ju-Eun Jeong"
         role: "-"
