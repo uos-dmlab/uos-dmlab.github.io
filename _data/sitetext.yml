@@ -342,9 +342,9 @@ members:
       - name: "So-Hyun Yoon"
         role: "M.S students"
         image: assets/img/team/YSH.jpg
-      - name: "Chan-Hoon Park"
-        role: "Undergraduate students"
-        image: assets/img/team/PCH.jpg
+      - name: "Ji-Seok Park"
+        role: "M.S students"
+        image: assets/img/team/PJS.jpg
     alumni:
       - name: "Ju-Eun Jeong"
         role: "-"
