@@ -342,9 +342,9 @@ members:
       - name: "So-Hyun Yoon"
         role: "M.S students"
         image: assets/img/team/YSH.jpg
-      - name: "Ji-Seok Park"
-        role: "M.S students"
-        image: assets/img/team/PJS.jpg
+#      - name: "Ji-Seok Park"
+#       role: "M.S students"
+#       image: assets/img/team/PJS.jpg
       - name: "Si-Hyeong Yeo"
         role: "Undergraduate student"
         image: assets/img/team/YSH-.jpg
