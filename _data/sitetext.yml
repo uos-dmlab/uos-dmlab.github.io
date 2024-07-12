@@ -351,9 +351,7 @@ members:
       - name: "Hyeong-Jun Kang"
         role: "Undergraduate student"
         image: assets/img/team/KHJ.jpg
-      - name: "Seung-June Kim"
-        role: "Undergraduate student"
-        image: assets/img/team/KSJ-.jpg
+     
     alumni:
       - name: "Ju-Eun Jeong"
         role: "-"
