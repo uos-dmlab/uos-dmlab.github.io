@@ -326,19 +326,7 @@ members:
 
       2003~: Associate professor, Department of computer Science and Engineering"
     students:
-      - name: "Soon-Kwan Kwon"
-        role: "M.S students"
-        image: assets/img/team/KSK.jpg
-        #        social:
-        #          - url: https://twitter.com
-        #            icon: fab fa-twitter
-        #          - url: https://facebook.com
-        #            icon: fab fa-facebook-f
-        #          - url: https://linkedin.com
-        #            icon: fab fa-linkedin-in
-      - name: "Yoon-Seok Choi"
-        role: "M.S students"
-        image: assets/img/team/CYS.png
+      
       - name: "So-Hyun Yoon"
         role: "M.S students"
         image: assets/img/team/YSH.jpg
@@ -353,6 +341,19 @@ members:
         image: assets/img/team/KHJ.jpg
      
     alumni:
+      - name: "Soon-Kwan Kwon"
+        role: "M.S students"
+        image: assets/img/team/KSK.jpg
+        #        social:
+        #          - url: https://twitter.com
+        #            icon: fab fa-twitter
+        #          - url: https://facebook.com
+        #            icon: fab fa-facebook-f
+        #          - url: https://linkedin.com
+        #            icon: fab fa-linkedin-in
+      - name: "Yoon-Seok Choi"
+        role: "M.S students"
+        image: assets/img/team/CYS.png
       - name: "Ju-Eun Jeong"
         role: "-"
         image: assets/img/team/JJE.jpg
